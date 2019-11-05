@@ -15,8 +15,9 @@ tfoot.color{
     color: #BA2727;
 }
 th.backcolor{   
+    color: yellow;
 }
 td.size{
     width: 600px;
-    height: 100px;
+    height: 20px;
 }
